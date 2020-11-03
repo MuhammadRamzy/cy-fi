@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    float: left;
+    display: block;
+    background-color: rgb(234, 247, 255);
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.img-div img {
+    width: 250px;
+}
+
+.menu {
+    margin-top: 0px;
+}
+
+main {
+    margin-top: 10px;
+    margin: 25px;
+}
+
+.content1 {
+    border-radius: 10px;
+    width: 100%;
+    background-color: rgb(238, 238, 238);
+    padding: 8px;
+}
+
+.content {
+    border-radius: 10px;
+    width: 100%;
+    padding: 8px;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+h6 {
+    margin: 15px;
+    text-align: center;
+    font-size: 10px;
+}
+
+.cy-fi-nav-name {
+    font-family: 'arial', sans-serif;
+    font-weight: 600;
+}
+
+marquee {
+    padding: 5px;
+    border-radius: 10px;
+    width: 100%;
+   /* margin: 5px;*/
+    background-color: rgb(251, 247, 224);
+}
